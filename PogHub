@@ -1,0 +1,193 @@
+-- Made by Yuki and Tofu
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/GitHubTestei/Yessier/main/PogHub"))()
+
+local NotificationHolder = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Module.Lua"))()
+local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()
+
+Notification:Notify(
+    {Title = "Poggers Hub", Description = "By Yuki and Tofu"},
+    {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "option"},
+    {Image = "http://www.roblox.com/asset/?id=6023426923", ImageColor = Color3.fromRGB(255, 84, 84), Callback = function(State) print(tostring(State)) end}
+)
+wait(1)
+Notification:Notify(
+    {Title = "Yuki's instagram", Description = " abbyryel on instagram because discord might get banned"},
+    {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "image"},
+    {Image = "http://www.roblox.com/asset/?id=6023426923", ImageColor = Color3.fromRGB(255, 84, 84)}
+)
+wait(1)
+Notification:Notify(
+    {Title = "BugFix", Description = "V1.0.3 Loaded"},
+    {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "default"}
+)
+--Get the StarterGui service
+local StarterGui = game:GetService("StarterGui")
+
+--Use a repeat to make sure we get our system message
+--The repeat will only stop once the function successfully runs
+repeat
+	wait() --Wait to prevent crashing
+	local Success = pcall(function()
+		--Run SetCore method inside the pcall
+		--The first argument of SetCore is the method we wish to use
+		--In this case, the second argument is a dictionary of data for the chat message
+		StarterGui:SetCore("ChatMakeSystemMessage", {
+			Text = "Thanks for using Poggers Hub! - Yuki and Tofu"; --The chat message
+			Color = Color3.fromRGB(0, 255, 255); --Chat message color, defaults to white
+			Font = Enum.Font.SourceSansBold; --Chat message font, defaults to SourceSansBold
+			TextSize = 18 --Text size, defaults to 18
+		})
+	end)
+until Success
+--Get the StarterGui service
+local StarterGui = game:GetService("StarterGui")
+
+--Use a repeat to make sure we get our system message
+--The repeat will only stop once the function successfully runs
+repeat
+	wait() --Wait to prevent crashing
+	local Success = pcall(function()
+		--Run SetCore method inside the pcall
+		--The first argument of SetCore is the method we wish to use
+		--In this case, the second argument is a dictionary of data for the chat message
+		StarterGui:SetCore("ChatMakeSystemMessage", {
+			Text = "Thanks for using Poggers Hub! - Yuki and Tofu"; --The chat message
+			Color = Color3.fromRGB(0, 255, 255); --Chat message color, defaults to white
+			Font = Enum.Font.SourceSansBold; --Chat message font, defaults to SourceSansBold
+			TextSize = 18 --Text size, defaults to 18
+		})
+	end)
+until Success
+--Get the StarterGui service
+local StarterGui = game:GetService("StarterGui")
+
+--Use a repeat to make sure we get our system message
+--The repeat will only stop once the function successfully runs
+repeat
+	wait() --Wait to prevent crashing
+	local Success = pcall(function()
+		--Run SetCore method inside the pcall
+		--The first argument of SetCore is the method we wish to use
+		--In this case, the second argument is a dictionary of data for the chat message
+		StarterGui:SetCore("ChatMakeSystemMessage", {
+			Text = "Thanks for using Poggers Hub! - Yuki and Tofu"; --The chat message
+			Color = Color3.fromRGB(0, 255, 255); --Chat message color, defaults to white
+			Font = Enum.Font.SourceSansBold; --Chat message font, defaults to SourceSansBold
+			TextSize = 18 --Text size, defaults to 18
+		})
+	end)
+until Success
+--Get the StarterGui service
+local StarterGui = game:GetService("StarterGui")
+
+--Use a repeat to make sure we get our system message
+--The repeat will only stop once the function successfully runs
+repeat
+	wait() --Wait to prevent crashing
+	local Success = pcall(function()
+		--Run SetCore method inside the pcall
+		--The first argument of SetCore is the method we wish to use
+		--In this case, the second argument is a dictionary of data for the chat message
+		StarterGui:SetCore("ChatMakeSystemMessage", {
+			Text = "Thanks for using Poggers Hub! - Yuki and Tofu"; --The chat message
+			Color = Color3.fromRGB(0, 255, 255); --Chat message color, defaults to white
+			Font = Enum.Font.SourceSansBold; --Chat message font, defaults to SourceSansBold
+			TextSize = 18 --Text size, defaults to 18
+		})
+	end)
+until Success
+--Get the StarterGui service
+local StarterGui = game:GetService("StarterGui")
+
+--Use a repeat to make sure we get our system message
+--The repeat will only stop once the function successfully runs
+repeat
+	wait() --Wait to prevent crashing
+	local Success = pcall(function()
+		--Run SetCore method inside the pcall
+		--The first argument of SetCore is the method we wish to use
+		--In this case, the second argument is a dictionary of data for the chat message
+		StarterGui:SetCore("ChatMakeSystemMessage", {
+			Text = "Thanks for using Poggers Hub! - Yuki and Tofu"; --The chat message
+			Color = Color3.fromRGB(0, 255, 255); --Chat message color, defaults to white
+			Font = Enum.Font.SourceSansBold; --Chat message font, defaults to SourceSansBold
+			TextSize = 18 --Text size, defaults to 18
+		})
+	end)
+until Success
+--Get the StarterGui service
+local StarterGui = game:GetService("StarterGui")
+
+--Use a repeat to make sure we get our system message
+--The repeat will only stop once the function successfully runs
+repeat
+	wait() --Wait to prevent crashing
+	local Success = pcall(function()
+		--Run SetCore method inside the pcall
+		--The first argument of SetCore is the method we wish to use
+		--In this case, the second argument is a dictionary of data for the chat message
+		StarterGui:SetCore("ChatMakeSystemMessage", {
+			Text = "Thanks for using Poggers Hub! - Yuki and Tofu"; --The chat message
+			Color = Color3.fromRGB(0, 255, 255); --Chat message color, defaults to white
+			Font = Enum.Font.SourceSansBold; --Chat message font, defaults to SourceSansBold
+			TextSize = 18 --Text size, defaults to 18
+		})
+	end)
+until Success
+--Get the StarterGui service
+local StarterGui = game:GetService("StarterGui")
+
+--Use a repeat to make sure we get our system message
+--The repeat will only stop once the function successfully runs
+repeat
+	wait() --Wait to prevent crashing
+	local Success = pcall(function()
+		--Run SetCore method inside the pcall
+		--The first argument of SetCore is the method we wish to use
+		--In this case, the second argument is a dictionary of data for the chat message
+		StarterGui:SetCore("ChatMakeSystemMessage", {
+			Text = "Thanks for using Poggers Hub! - Yuki and Tofu"; --The chat message
+			Color = Color3.fromRGB(0, 255, 255); --Chat message color, defaults to white
+			Font = Enum.Font.SourceSansBold; --Chat message font, defaults to SourceSansBold
+			TextSize = 18 --Text size, defaults to 18
+		})
+	end)
+until Success
+--Get the StarterGui service
+local StarterGui = game:GetService("StarterGui")
+
+--Use a repeat to make sure we get our system message
+--The repeat will only stop once the function successfully runs
+repeat
+	wait() --Wait to prevent crashing
+	local Success = pcall(function()
+		--Run SetCore method inside the pcall
+		--The first argument of SetCore is the method we wish to use
+		--In this case, the second argument is a dictionary of data for the chat message
+		StarterGui:SetCore("ChatMakeSystemMessage", {
+			Text = "Thanks for using Poggers Hub! - Yuki and Tofu"; --The chat message
+			Color = Color3.fromRGB(0, 255, 255); --Chat message color, defaults to white
+			Font = Enum.Font.SourceSansBold; --Chat message font, defaults to SourceSansBold
+			TextSize = 18 --Text size, defaults to 18
+		})
+	end)
+until Success
+--Get the StarterGui service
+local StarterGui = game:GetService("StarterGui")
+
+--Use a repeat to make sure we get our system message
+--The repeat will only stop once the function successfully runs
+repeat
+	wait() --Wait to prevent crashing
+	local Success = pcall(function()
+		--Run SetCore method inside the pcall
+		--The first argument of SetCore is the method we wish to use
+		--In this case, the second argument is a dictionary of data for the chat message
+		StarterGui:SetCore("ChatMakeSystemMessage", {
+			Text = "Yuki's instagram = abbyryel"; --The chat message
+			Color = Color3.fromRGB(0, 255, 255); --Chat message color, defaults to white
+			Font = Enum.Font.SourceSansBold; --Chat message font, defaults to SourceSansBold
+			TextSize = 18 --Text size, defaults to 18
+		})
+	end)
+until Success
